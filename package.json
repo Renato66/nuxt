@@ -79,7 +79,7 @@
     "eslint-plugin-perfectionist": "3.3.0",
     "eslint-typegen": "0.3.1",
     "h3": "npm:h3-nightly@2.0.0-1718872656.6765a6e",
-    "happy-dom": "15.0.0",
+    "happy-dom": "15.3.1",
     "jiti": "2.0.0-beta.3",
     "markdownlint-cli": "0.41.0",
     "nitro": "npm:nitro-nightly@3.0.0-beta-28665895.e727afda",
@@ -100,7 +100,7 @@
     "vitest-environment-nuxt": "1.0.1",
     "vue": "3.4.38",
     "vue-router": "4.4.3",
-    "vue-tsc": "2.0.29"
+    "vue-tsc": "2.1.0"
   },
   "packageManager": "pnpm@9.9.0",
   "engines": {
